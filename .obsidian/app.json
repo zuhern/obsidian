@@ -1,0 +1,12 @@
+{
+  "promptDelete": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "_attachments",
+  "newLinkFormat": "absolute",
+  "vimMode": false,
+  "livePreview": false,
+  "spellcheck": false,
+  "tabSize": 2
+}

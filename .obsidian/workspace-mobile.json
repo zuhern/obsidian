@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "284b77719d0d9c09",
+    "type": "split",
+    "children": [
+      {
+        "id": "01e5b2d1a73cefb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d97890652566589",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HAPPY-GO-LUCKY/00. 자주보는메모/사이트 정보.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "사이트 정보"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f094471c9eef9972",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b3f98729124c99ee",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": true
+          },
+          "icon": "lucide-folder-closed",
+          "title": "파일 탐색기"
+        }
+      },
+      {
+        "id": "3f3d388a8c9f937c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "검색"
+        }
+      },
+      {
+        "id": "0913fbbe9d7e6ad6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "태그"
+        }
+      },
+      {
+        "id": "0125dd802a024b8a",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "북마크"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "13666895ae6bd7dd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "afb6f60b90928d5b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "백링크"
+        }
+      },
+      {
+        "id": "9fc859e96755b62c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "나가는 링크"
+        }
+      },
+      {
+        "id": "f7d931cb33e2ec97",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "개요"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-kanban:새 보드 만들기": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2d97890652566589",
+  "lastOpenFiles": [
+    "HAPPY-GO-LUCKY/50. 메모/51. 기록/젤다 왕눈.md",
+    "HAPPY-GO-LUCKY/10. 즐겁게 살자/알콜/나라별 술 추천.md",
+    "HAPPY-GO-LUCKY/10. 즐겁게 살자/알콜/추천 와인.md",
+    "HAPPY-GO-LUCKY/10. 즐겁게 살자/알콜/위스키/index.md",
+    "_attachments/1634898168773.jpg",
+    "HAPPY-GO-LUCKY/10. 즐겁게 살자/알콜/알콜.md",
+    "HAPPY-GO-LUCKY/10. 즐겁게 살자/알콜/마트 와인 추천.md",
+    "알콜.md",
+    "HAPPY-GO-LUCKY/10. 즐겁게 살자/알콜/무제.canvas",
+    "HAPPY-GO-LUCKY/10. 즐겁게 살자/알콜/기이사님 추천 와인.md",
+    "HAPPY-GO-LUCKY/10. 즐겁게 살자/노래.md",
+    "HAPPY-GO-LUCKY/10. 즐겁게 살자/독후감/문구 주체적인 삶.md",
+    "HAPPY-GO-LUCKY/10. 즐겁게 살자/다이빙/(46) 세부- 릴로안- - 조류.md",
+    "HAPPY-GO-LUCKY/10. 즐겁게 살자/다이빙/(50) 세부- 릴로안- 스완- 나이트.md",
+    "HAPPY-GO-LUCKY/00. 자주보는메모/다이빙 호흡법.md",
+    "HAPPY-GO-LUCKY/00. 자주보는메모/다이어트.md"
+  ]
+}
