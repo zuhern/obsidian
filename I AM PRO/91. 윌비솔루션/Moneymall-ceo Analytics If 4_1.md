@@ -1,0 +1,7 @@
+---
+Created: Invalid date
+Updated: Invalid date
+---
+AnalyticsIf4_1UVCountmvn -e -DconfPath=/META-INF/spring/ceo-mr/*-test.xml -DbeanName=analyticsIf4_1UVCountJobRunner -Dtest=GenericTestJobRunner test -P prod -nsumvn -e -Dtest=AnalyticsIf4_1UVCountTestSkip test -P prod -nsu\# Hive 테이블 생성CREATE EXTERNAL TABLE analytics_if_4_1 (itemId STRING,strtDt STRING,endDt STRING,totVisitCnt STRING,pageVisitCnt STRING) ROW FORMAT DELIMITED FIELDS TERMINATED BY "\t" LINES TERMINATED BY '\n';job : analytics-if-4-1-hadoopclass : AnalyticsIf4_1UVCountjob : analytics-if-4-1-load-to-hivehive table : analytics_if_4_1command : /data01/hive/hive-0.11.0/bin/hive -h 10.203.5.21 -p 10000 -e "load data inpath '/moneymall/analytics/analytics-if-4-1/uv-count-by-item-id/' into table analytics_if_4_1"azkaban-job-ceo# localmvn -e -DskipTest clean install assembly:single -P azkaban-job-ceo -nsu# servermvn -e -DskipTest clean install assembly:single -P hadoop-job -nsu# azkabanhadoop fs -ls /user/moneymall/lib/hadoop fs -rmr /user/moneymall/lib/moneymall-service-ceo-0.5.0-RC9-SNAPSHOT-hadoop-job.jarhadoop fs -put target/moneymall-service-ceo-0.5.0-RC9-SNAPSHOT-hadoop-job.jar libhadoop fs -ls /user/moneymall/lib/# hiveselect * from analytics_if_4_1where strtDt like "2014-07-14 13%”# 테스트 item-id0000010586501000000237123300000105102530000009911511100000574463400000048645200000010667768
+
+| Style : Background0, Font0, Size16 | Tags : Analytics |
