@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e72afdfd4f679aba",
+        "id": "b66af518154408a7",
         "type": "tabs",
         "children": [
           {
-            "id": "6aa1c31efb3db435",
+            "id": "3a81e2f0293cb7b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HAPPY-GO-LUCKY/80. 공부/82. Flutter 공부/README.md",
+                "file": "HAPPY-GO-LUCKY/10. 즐겁게 살자/다이빙/(17~19) 사이판 둘째날.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "(17~19) 사이판 둘째날"
             }
           }
         ]
@@ -180,8 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6aa1c31efb3db435",
+  "active": "3a81e2f0293cb7b0",
   "lastOpenFiles": [
+    "HAPPY-GO-LUCKY/10. 즐겁게 살자/다이빙/untitled.md",
+    "HAPPY-GO-LUCKY/10. 즐겁게 살자/다이빙/(17~19) 사이판 둘째날.md",
+    "HAPPY-GO-LUCKY/80. 공부/82. Flutter 공부/README.md",
     "HAPPY-GO-LUCKY/80. 공부/82. Flutter 공부/ㅇㅇ.md",
     "HAPPY-GO-LUCKY/10. 즐겁게 살자/알콜/추천 와인.md",
     "HAPPY-GO-LUCKY/00. 자주보는메모/README.md",
@@ -205,9 +208,6 @@
     "HAPPY-GO-LUCKY/10. 즐겁게 살자/알콜/위스키/위스키 추천.md",
     "HAPPY-GO-LUCKY/10. 즐겁게 살자/알콜/위스키/위스키 공부.md",
     "HAPPY-GO-LUCKY/50. 메모/53. 스크랩/좋은 말.md",
-    "HAPPY-GO-LUCKY/00. 자주보는메모/_자주보는메모.md",
-    "HAPPY-GO-LUCKY/00. 자주보는메모/새콤달콤하니 색상.md",
-    "HAPPY-GO-LUCKY/00. 자주보는메모/영양제 먹는 시간.md",
     "_attachments/1634898168773.jpg",
     "_attachments/untitled 42.jpg",
     "_attachments/untitled 3 5.jpg",
