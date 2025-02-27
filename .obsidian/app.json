@@ -4,7 +4,7 @@
   "newFileLocation": "current",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "_attachments",
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "relative",
   "vimMode": false,
   "livePreview": false,
   "spellcheck": false,
